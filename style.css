@@ -12,14 +12,14 @@ body {
     min-height: 100vh;
 }
 
-main {
+/* main {
     background-color: grey;
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
-}
+} */
 
 .container {
     width: 400px;
@@ -45,4 +45,8 @@ main {
 
 form {
     margin-bottom: 2rem;
+}
+
+.rojo {
+    background-color: red;
 }
